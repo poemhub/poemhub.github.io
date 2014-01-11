@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://poemhub.github.io/atom.xml" rel="self"/>
   <link href="http://poemhub.github.io/"/>
-  <updated>2014-01-11T22:21:15+08:00</updated>
+  <updated>2014-01-11T23:16:42+08:00</updated>
   <id>http://poemhub.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[突然想说]]></title>
+    <link href="http://poemhub.github.io/blog/2014/01/11/tu-ran-xiang-shuo/"/>
+    <updated>2014-01-11T23:13:00+08:00</updated>
+    <id>http://poemhub.github.io/blog/2014/01/11/tu-ran-xiang-shuo</id>
+    <content type="html"><![CDATA[<p>相见或许不见，相恋注定不眠。</p>
+
+<p>淡淡的忧伤犹如黑色的毒药，</p>
+
+<p>腐蚀着我的肉体和灵魂。</p>
+
+<p>一个个不眠的夜里，</p>
+
+<p>忙碌的发着呆，</p>
+
+<p>美好回响在脑中，</p>
+
+<p>我却告诉自己，</p>
+
+<p>生活永远没那么简单。</p>
+]]></content>
+  </entry>
   
 </feed>
